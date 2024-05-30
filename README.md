@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Course of Google Advanced Data Analytics
+A course in Google Advanced Data Analytics.
